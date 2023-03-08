@@ -1,0 +1,12 @@
+akshare
+fastapi[all]
+loguru
+pandas
+sqlalchemy
+pymysql
+pyarrow
+redis
+numpy
+uvicorn
+pydantic
+requests
